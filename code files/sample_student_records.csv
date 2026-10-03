@@ -1,0 +1,4 @@
+student_roll_number,student_name,faculty_name,branch,email,phone_number,description
+1,EEE Student,Faculty EEE,EEE,eeeuser@gmail.com,,Sample EEE record
+2,ECE Student,Faculty ECE,ECE,,,Sample ECE record
+3,CSE Student,Faculty CSE,CSE,,,Sample CSE record
